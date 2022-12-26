@@ -1,0 +1,8 @@
+Android Studio, Android için uygulama geliştirme ortamıdır ve reskin yapmak, uygulamanızın görünümünü değiştirmek anlamına gelir. Aşağıdaki adımları takip ederek Android Studio ile hızlı bir şekilde reskin yapabilirsiniz:
+
+Android Studio'yu açın ve projenizi açın.
+"res" klasörüne gidin ve "values" klasörünü açın.
+"colors.xml" dosyasını açın ve renklerinizi değiştirin. Örneğin, uygulamanızın arka plan rengini değiştirmek için "colorPrimary" değerini değiştirin.
+"drawable" klasörünü açın ve öğelerin görüntüsünü değiştirmek istediğiniz grafikleri değiştirin. Örneğin, uygulamanızın simgesini değiştirmek için "ic_launcher.png" dosyasını değiştirin.
+Değişikliklerinizi kaydedin ve projenizi derleyin ve çalıştırın. Uygulamanızın görünümünün değiştiğini göreceksiniz.
+Not: Bu adımlar, uygulamanızın görünümünü değiştirmeye yönelik temel bir örnektir. Uygulamanızın görünümünü daha detaylı bir şekilde değiştirmek istiyorsanız, Android Studio'nun "Layout Editor" aracını ve Android'de kullanılan XML dilini kullanarak daha ileri seviye değişiklikler yapabilirsiniz.
